@@ -1,3 +1,6 @@
+#goal is to create graphs the trajectory of a mass for a spring loaded projecile
+#i have the initial velocity set so that you can just enter what that is.
+#i need to set up a function to calculate the initial velocty using a mass and spring constant and using x as the displacement of the spring.
 import numpy as np
 import matplotlib.pyplot as plt
 
